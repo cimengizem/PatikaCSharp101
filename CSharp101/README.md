@@ -5,4 +5,4 @@
 
 [Patika.dev](https://app.patika.dev/cimengizem) 
 
-![Linkedin][C:\Users\cimen\Desktop\Patika\Fazlalıklar](https://www.linkedin.com/in/gizemcimencg/)
+[![Linkedin](C:\Users\cimen\Desktop\Patika\Fazlalıklar)](https://www.linkedin.com/in/gizemcimencg/)
